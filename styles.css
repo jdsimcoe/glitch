@@ -1,0 +1,18 @@
+a {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+a:visited {
+  color: #ffffff;
+}
+
+.monospace {
+  font-family: 'SF Mono','SFMono-Regular', Menlo, Monaco, Inconsolata, 'Fira Mono', 'Droid Sans Mono', 'Source Code Pro', monospace;
+  font-weight: normal;
+}
+
+.monospace-bold {
+  font-family: 'SF Mono','SFMono-Bold', Menlo, Monaco, Inconsolata, 'Fira Mono', 'Droid Sans Mono', 'Source Code Pro', monospace;
+  font-weight: bold;
+}
